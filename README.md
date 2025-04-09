@@ -20,7 +20,6 @@ Die Ergebnisse (Foto oder Video) werden innerhalb der Freundesgruppe geteilt –
 - 📲 **Tägliche Challenge** – alle 24 Stunden eine neue Aufgabe
 - 📷 **Foto/Video-Upload** – Umsetzung der Challenge mit Medien
 - 👥 **Freundesgruppen** – gemeinsam teilnehmen und posten
-- 💬 **In-App-Galerie** – zeigt alle Ergebnisse einer Challenge
 - 🔔 **Erinnerungen** – z. B. Push Notification, falls noch keine Teilnahme erfolgt ist
 
 ---
